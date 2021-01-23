@@ -12,7 +12,7 @@
 * 데이터 셔플
 
 ## 모델링
-* CNN을 기반으로하는 VGGNET 모델(2014년 ImageNet이라는 1000개의 이미지를 구별하는 대회에서 좋은 성적을 낸 모델
+* CNN을 기반으로하는 VGGNET 모델(2014년 ImageNet이라는 1000개의 이미지를 구별하는 대회에서 좋은 성적을 낸 모델)
 * Batch normalization 추가
 * 손실함수: Cross-entropy
 * 최적화함수: Adam optimizer (gradient와 learning rate 둘 다 고려해서 방향을 찾는 함수)
